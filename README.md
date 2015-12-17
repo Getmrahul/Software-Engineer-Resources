@@ -8,3 +8,8 @@ Hashing in Python
 Linked List in Python
 ----------------------
 *Singly - http://stackoverflow.com/a/280286/2182940
+
+Time Complexity
+---------------
+* Time Complexity (All videos) - https://www.youtube.com/watch?v=V42FBiohc6c&list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn
+* Big O , Omega, Theta - https://www.youtube.com/watch?v=OpebHLAf99Y
